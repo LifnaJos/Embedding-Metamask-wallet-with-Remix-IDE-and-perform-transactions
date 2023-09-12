@@ -16,9 +16,9 @@ Note :
 
 **3. Fund Your Wallet from any Testnet:**
   
-* [Sepolia Testnet](https://github.com/LifnaJos/Getting-funds-from-Testnets-to-Metamask-Wallet#steps-to-get-funds-from-sepolia-testnet) (0.5 ETH per day)
+* Go through the steps to fund your wallet from [Sepolia Testnet](https://github.com/LifnaJos/Getting-funds-from-Testnets-to-Metamask-Wallet#steps-to-get-funds-from-sepolia-testnet) (only 0.5 ETH per day)
   
-* [RSK Testnet](https://github.com/LifnaJos/Getting-funds-from-Testnets-to-Metamask-Wallet#steps-to-get-funds-from-rsk-testnet)  (0.05 RBTC per day)
+* Go through the steps to fund your wallet from [RSK Testnet](https://github.com/LifnaJos/Getting-funds-from-Testnets-to-Metamask-Wallet#steps-to-get-funds-from-rsk-testnet)  (only 0.05 RBTC per day)
 
 ## Step - 2 : Connect the Sepolia Testnet  / RSK Testnet to Remix IDE
 **1. In the Remix IDE, select the Environment as Injected Web3.**
